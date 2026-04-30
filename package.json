@@ -1,0 +1,21 @@
+{
+  "name": "creator-insight-pipeline",
+  "version": "1.0.0",
+  "private": false,
+  "description": "A creator analytics pipeline that turns content metrics into publishing recommendations.",
+  "scripts": {
+    "start": "node src/analyze.js",
+    "test": "node tests/analyze.test.js"
+  },
+  "keywords": [
+    "analytics",
+    "creator-tools",
+    "content-strategy",
+    "javascript"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">=20"
+  }
+}
+
