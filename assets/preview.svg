@@ -1,0 +1,18 @@
+<svg width="1200" height="680" viewBox="0 0 1200 680" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="680" rx="28" fill="#FAFAFA"/>
+  <circle cx="180" cy="95" r="240" fill="#0EA5E9" fill-opacity="0.16"/>
+  <circle cx="1050" cy="610" r="260" fill="#10B981" fill-opacity="0.16"/>
+  <text x="70" y="100" fill="#0369A1" font-family="Arial" font-size="24" font-weight="800">CREATOR INSIGHT PIPELINE</text>
+  <text x="70" y="165" fill="#171717" font-family="Arial" font-size="56" font-weight="800">Find the signal in metrics.</text>
+  <rect x="70" y="230" width="320" height="120" rx="18" fill="white" stroke="#D1D5DB"/>
+  <rect x="440" y="230" width="320" height="120" rx="18" fill="white" stroke="#D1D5DB"/>
+  <rect x="810" y="230" width="320" height="120" rx="18" fill="white" stroke="#D1D5DB"/>
+  <text x="105" y="300" fill="#0F766E" font-family="Arial" font-size="36" font-weight="800">36.5K</text>
+  <text x="475" y="300" fill="#0F766E" font-family="Arial" font-size="32" font-weight="800">prompting</text>
+  <text x="845" y="300" fill="#0F766E" font-family="Arial" font-size="28" font-weight="800">double down</text>
+  <rect x="70" y="400" width="1060" height="70" rx="14" fill="white" stroke="#D1D5DB"/>
+  <rect x="100" y="430" width="710" height="12" rx="6" fill="#10B981"/>
+  <rect x="70" y="500" width="1060" height="70" rx="14" fill="white" stroke="#D1D5DB"/>
+  <rect x="100" y="530" width="460" height="12" rx="6" fill="#0EA5E9"/>
+  <rect x="70" y="600" width="1060" height="50" rx="14" fill="white" stroke="#D1D5DB"/>
+</svg>

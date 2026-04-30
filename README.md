@@ -14,6 +14,8 @@ Complexity: **Level 3**
 
 Creator Insight Pipeline analyzes content performance and recommends what to publish next.
 
+![Preview](./assets/preview.svg)
+
 ## Demo
 
 Open `public/index.html` for a visual insight dashboard, or run the CLI example below.
@@ -21,6 +23,14 @@ Open `public/index.html` for a visual insight dashboard, or run the CLI example 
 ## Live Demo
 
 `https://abdulazizbalu.github.io/creator-insight-pipeline/`
+
+## Case Study
+
+**Problem:** view count alone does not explain what content is worth repeating.
+
+**Solution:** calculate engagement signal from saves and shares, identify the strongest topic, and recommend the next strategic move.
+
+**What it shows:** analytics thinking, content strategy, and clean data transformation logic.
 
 ## Why It Fits My Profile
 
